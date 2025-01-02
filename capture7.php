@@ -11,7 +11,7 @@
 
 ?>
 
-<h1>Your password in my hand</h1>
+<h1>Oops! The page is busy. Try again later</h1>
 
 <?php
 
